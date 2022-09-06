@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@simple-app/ui-feature/*": ["libs/ui-feature/src/*"],
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
