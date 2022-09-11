@@ -4,6 +4,7 @@
   "projects": {
     "order-service": "apps/order-service",
     "order-service-e2e": "apps/order-service-e2e",
+치    "ui-component": "libs/ui-component",
     "ui-feature": "libs/ui-feature"
   }
 }
