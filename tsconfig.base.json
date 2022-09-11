@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@simple-app/ui-feature/*": ["libs/ui-feature/src/*"],
+      "@simple-app/ui-component/*": ["libs/ui-component/src/*"]
     }
   },
   "exclude": ["node_modules", "tmp"]
